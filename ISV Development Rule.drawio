@@ -5,81 +5,84 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="3" value="是" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="370" y="250" width="50" height="48" as="geometry" />
+          <mxGeometry x="350" y="330" width="50" height="48" as="geometry" />
         </mxCell>
         <mxCell id="4" value="否" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="370" y="348" width="50" height="48" as="geometry" />
+          <mxGeometry x="350" y="428" width="50" height="48" as="geometry" />
         </mxCell>
         <mxCell id="5" value="解决方案集成度" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="520" y="298" width="104" height="48" as="geometry" />
+          <mxGeometry x="500" y="378" width="104" height="48" as="geometry" />
         </mxCell>
         <mxCell id="11" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.5;exitDx=0;exitDy=0;" parent="1" source="byp6GpZDUaw9h8IzbePt-19" target="3" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="345" y="274" />
+              <mxPoint x="325" y="354" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="12" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.51;exitDx=0;exitDy=0;" parent="1" source="byp6GpZDUaw9h8IzbePt-19" target="4" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="345" y="373" />
+              <mxPoint x="325" y="453" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="13" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0.14;entryY=0;" parent="1" source="3" target="5" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="523" y="274" />
+              <mxPoint x="503" y="354" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="14" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.51;entryX=0.14;entryY=1.01;" parent="1" source="4" target="5" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="523" y="373" />
+              <mxPoint x="503" y="453" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="byp6GpZDUaw9h8IzbePt-19" value="华为云拉美客户" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="210" y="300" width="104" height="48" as="geometry" />
+          <mxGeometry x="190" y="380" width="104" height="48" as="geometry" />
         </mxCell>
         <mxCell id="byp6GpZDUaw9h8IzbePt-20" value="使用价值高阶服务&#xa;（GaussDB，DataArts，ModelArts，安全服务）" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="740" y="240" width="158" height="48" as="geometry" />
+          <mxGeometry x="720" y="320" width="158" height="48" as="geometry" />
         </mxCell>
         <mxCell id="byp6GpZDUaw9h8IzbePt-21" value="使用基础云服务" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="740" y="300" width="158" height="48" as="geometry" />
+          <mxGeometry x="720" y="380" width="158" height="48" as="geometry" />
         </mxCell>
         <mxCell id="byp6GpZDUaw9h8IzbePt-22" value="仅使用计算与存储资源" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="740" y="360" width="158" height="48" as="geometry" />
+          <mxGeometry x="720" y="440" width="158" height="48" as="geometry" />
         </mxCell>
         <mxCell id="byp6GpZDUaw9h8IzbePt-23" value="" style="curved=1;startArrow=none;endArrow=block;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="5" target="byp6GpZDUaw9h8IzbePt-20">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="680" y="260" />
+              <mxPoint x="660" y="340" />
             </Array>
-            <mxPoint x="660" y="330" as="sourcePoint" />
-            <mxPoint x="671.72" y="215" as="targetPoint" />
+            <mxPoint x="640" y="410" as="sourcePoint" />
+            <mxPoint x="651.72" y="295" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="byp6GpZDUaw9h8IzbePt-24" value="" style="curved=1;startArrow=none;endArrow=block;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="5" target="byp6GpZDUaw9h8IzbePt-21">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
-            <mxPoint x="660" y="363.5" as="sourcePoint" />
-            <mxPoint x="748" y="284.5" as="targetPoint" />
+            <mxPoint x="640" y="443.5" as="sourcePoint" />
+            <mxPoint x="728" y="364.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="byp6GpZDUaw9h8IzbePt-25" value="" style="curved=1;startArrow=none;endArrow=block;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="5" target="byp6GpZDUaw9h8IzbePt-22">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="670" y="384" />
+              <mxPoint x="650" y="464" />
             </Array>
-            <mxPoint x="652" y="350.5" as="sourcePoint" />
-            <mxPoint x="740" y="331.5" as="targetPoint" />
+            <mxPoint x="632" y="430.5" as="sourcePoint" />
+            <mxPoint x="720" y="411.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="byp6GpZDUaw9h8IzbePt-26" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="370" y="110" width="120" height="60" as="geometry" />
+        <mxCell id="byp6GpZDUaw9h8IzbePt-26" value="客户推荐" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="370" y="110" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="byp6GpZDUaw9h8IzbePt-28" value="客户介绍" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="480" y="110" width="80" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
